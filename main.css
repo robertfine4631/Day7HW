@@ -1,11 +1,11 @@
 body {
 	text-align: center;
-	color: white;
+	color: red;
 }
 
 /*http://images6.alphacoders.com/316/316963.jpg*/
-.container {
+/*.container {
 	background-image:url(background123.jpg);
 	width: auto;
 	height: auto;
-}
+}*/
